@@ -1,0 +1,6 @@
+{
+  "name": "Aura Toolbox",
+  "description": "A premium utility dashboard including system info, a timezone tool, a quick scratchpad, a focus breathing helper, and real-time connectivity diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
